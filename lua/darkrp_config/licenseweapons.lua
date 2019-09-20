@@ -10,3 +10,9 @@ GM.NoLicense["weapon_physgun"]    = true
 GM.NoLicense["weapon_bugbait"]    = true
 GM.NoLicense["gmod_tool"]         = true
 GM.NoLicense["gmod_camera"]       = true
+
+if GM.Config.arcbank == true then
+  
+GM.NoLicense["weapon_arc_atmcard"]       = true
+  
+end
