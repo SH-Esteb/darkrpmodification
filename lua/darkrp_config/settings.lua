@@ -15,6 +15,8 @@ Toggle settings.
 Set to true or false.
 ]]
 
+-- ARCBank - Enable/disable ArcBank is disable. (https://steamcommunity.com/sharedfiles/filedetails/?id=1647910207)
+GM.Config.arcbank                       = false
 -- voice3D - Enable/disable 3DVoice is enabled.
 GM.Config.voice3D                       = true
 -- AdminsCopWeapons - Enable/disable admins spawning with cop weapons.
